@@ -1,0 +1,25 @@
+package Switch.JavaSwitch;
+
+public class SwitchJava {
+public static void main (String [] args){
+	
+	String j = "Two";
+	
+	switch(j) {
+	
+	case Zero;
+	System.out.println("Value is 0");
+	break;
+	case "One"
+	System.out.println("Value is 1");
+	break;
+	case "Three"
+	System.out.println("Value is 2");
+	break;
+	
+	
+	THIS IS NOT WORKING BECAUE THIS ONLY WORK IN JAVA 7
+	
+	}
+}
+}

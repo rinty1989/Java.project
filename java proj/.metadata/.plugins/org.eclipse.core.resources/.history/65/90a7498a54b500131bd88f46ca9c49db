@@ -1,0 +1,12 @@
+package subtraction.math.hw.two;
+
+public class Subtraction2hw {
+public static void min (String[] args){
+	// My 2nd Subtraction HW
+	
+	int r = 23;
+	int b = 22;
+	int result = r - b;
+	System.out.println(result);
+}
+}

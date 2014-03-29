@@ -1,0 +1,11 @@
+package java.Loop.in;
+
+public class ForLoop {
+public static void main(String[] args){
+	// i++	i = i +1
+	// for(initial value; condition; increment/decrement)
+	for(int i = 0; i <= 11; i++){
+		System.out.println("i=" + i);
+	}
+}
+}

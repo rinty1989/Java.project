@@ -1,0 +1,10 @@
+package my.clas.hw;
+
+public class RintysFirstClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

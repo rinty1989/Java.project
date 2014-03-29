@@ -1,0 +1,13 @@
+package less.then.or.equal.greater;
+
+public class LessThan {
+public static void main(String[] args){
+	
+	int x = 45;
+	int y = 100;
+	
+	in (x < y){
+	
+	}
+}
+}
